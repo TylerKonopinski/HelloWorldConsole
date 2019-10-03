@@ -3,7 +3,7 @@ package com.applications.world.hello;
 public class HelloWorldConsole {
 
     public String printText() {
-        return "Hello, world!";
+        return "hello there";
     }
 
     public static void main(String[] args) {

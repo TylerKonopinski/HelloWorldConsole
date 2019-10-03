@@ -10,6 +10,6 @@ public class HelloWorldConsoleTest {
     public void printText() {
         HelloWorldConsole hwc = new HelloWorldConsole();
 
-        assertEquals("Hello world!", hwc.printText());
+        assertEquals("hello there", hwc.printText());
     }
 }
